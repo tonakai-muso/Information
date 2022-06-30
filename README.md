@@ -4,3 +4,9 @@
 
 ## プライバシーポリシー
 [https://tonakai-muso.github.io/InformationTonakaiMuso/PrivacyPolicy.html](https://tonakai-muso.github.io/InformationTonakaiMuso/PrivacyPolicy.html)
+
+## ライセンス
+[https://tonakai-muso.github.io/InformationTonakaiMuso/License.html](https://tonakai-muso.github.io/InformationTonakaiMuso/License.html)
+
+## クレジット
+[https://tonakai-muso.github.io/InformationTonakaiMuso/Credit.html](https://tonakai-muso.github.io/InformationTonakaiMuso/Credit.html)
